@@ -1,0 +1,15 @@
+body {
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+}
+ul {
+    list-style: none;
+}
+li {
+    font-size: 60px;
+}
+li a:hover {
+   color: rgb(10, 197, 163);
+}
